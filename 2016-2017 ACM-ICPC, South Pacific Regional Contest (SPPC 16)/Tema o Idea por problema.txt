@@ -1,0 +1,11 @@
+A: simular en raiz de N. Greedy
+B: simular eficientemente
+C: FFT
+D: circunferencia por tres puntos y chequear si todos los rojos dentro y azules afuera
+E: Grafos. Aislados=>impossible. Conexas por separado, arranco en nodo 1, me pinto yo y pinto un vecino mio del otro color, sigo nodo a nodo en orden.
+F: Generar todas las tablas y chequear si funciona
+G: Simular eficientemente, usar bitmask para llevar los elementos disponibles/utilizandose.
+H: Teoria de numeros ==> GCD && eulerphi
+i: LIS y segment tree
+J: DP probar todo
+K: string, greedy, easy.
